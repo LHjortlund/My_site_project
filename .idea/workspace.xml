@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="581c034a-9aa8-4d89-9f94-5fc30ff4c4a0" name="Changes" comment="learning webdevelopment">
+      <change afterPath="$PROJECT_DIR$/Static/images/artic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/images/penguin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lyanne\PyCharm kode\My site project\Static\images" />
       <recent name="C:\Users\Lyanne\PyCharm kode\My site project\Static" />
       <recent name="C:\Users\Lyanne\PyCharm kode\My site project\templates" />
     </key>
@@ -79,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728979939516</updated>
-      <workItem from="1728979953091" duration="2029000" />
+      <workItem from="1728979953091" duration="8865000" />
     </task>
     <task id="LOCAL-00001" summary="learning webdevelopment">
       <option name="closed" value="true" />
@@ -89,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728980902936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning webdevelopment">
+      <option name="closed" value="true" />
+      <created>1728982423158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728982423158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +113,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="learning webdevelopment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/My_site_project$server.coverage" NAME="server Coverage Results" MODIFIED="1728981395087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_site_project$server.coverage" NAME="server Coverage Results" MODIFIED="1728982388579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
